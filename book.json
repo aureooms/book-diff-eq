@@ -1,0 +1,4 @@
+{
+	"author": "Estelle Chasseloup and Aurélien Ooms",
+	"plugins": ["katex"]
+}
